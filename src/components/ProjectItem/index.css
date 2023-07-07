@@ -1,0 +1,16 @@
+.project-item {
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-right: 20px;
+  box-shadow: 2px 2px 2px 2px #e2e8f0;
+  width: 20%;
+}
+.project-image {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  width: 100%;
+}
+.project-name {
+  color: #475569;
+  margin-left: 20px;
+}
